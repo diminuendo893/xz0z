@@ -1,2 +1,5 @@
-# xz0z
-[架空]徐州市第零中学
+This is a fictional institution. 
+---
+# 徐州市第零中学
+
+
