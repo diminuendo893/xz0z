@@ -7,6 +7,7 @@
 ---
 
 感谢以下赞助商为校长提供精神食粮（排名不分先后）：
+
 - [ゆずソフト](yuzu-soft.com)
 - [PROJECT-RAILGUN](https://toaru-project.com/railgun/)
 - [Pigeon Games](https://pigeon-games.com/)
