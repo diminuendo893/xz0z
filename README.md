@@ -39,27 +39,10 @@
 - [Mojang Studios]()
 - [Pixiv](pixiv.net)
 - [Pornhub](https://www.bilibili.com/video/BV1GJ411x7h7)
-<!--
+
 ---
 ## 💌 特别感谢
-
-<a href="https://github.com/SlimeBoyOwO/LingChat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SlimeBoyOwO/LingChat" />
-</a>
 
 ## ⭐️ 喜欢这个项目吗？请给我们点一个 Star！
 
 **这是我们提升影响力和持续维护的最大动力！**
-
-<a href="https://star-history.com/#moeru-ai/airi&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SlimeBoyOwO/LingChat&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SlimeBoyOwO/LingChat&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SlimeBoyOwO/LingChat&type=Date" />
-  </picture>
-</a>
----
--->
-*（以下部分无正文）*
-
-广告位招租
