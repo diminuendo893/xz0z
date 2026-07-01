@@ -43,6 +43,8 @@
 ---
 ## 💌 特别感谢
 
+![Contributors](https://contrib.rocks/image?repo=所有者/仓库名
+
 ## ⭐️ 喜欢这个项目吗？请给我们点一个 Star！
 
 **这是我们提升影响力和持续维护的最大动力！**
