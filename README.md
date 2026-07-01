@@ -46,3 +46,13 @@
 ## ⭐️ 喜欢这个项目吗？请给我们点一个 Star！
 
 **这是我们提升影响力和持续维护的最大动力！**
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=diminuendo893%2Fxz0z&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diminuendo893/xz0z&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=diminuendo893/xz0z&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diminuendo893/xz0z&type=date&legend=top-left" />
+ </picture>
+</a>
