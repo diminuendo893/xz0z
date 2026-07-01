@@ -11,6 +11,7 @@
 - [ゆずソフト](yuzu-soft.com)
 - [PROJECT-RAILGUN](https://toaru-project.com/railgun/)
 - [Pigeon Games](https://pigeon-games.com/)
+- [Mojang AB]
 - [Pixiv](pixiv.net)
 - [Pornhub](https://www.bilibili.com/video/BV1GJ411x7h7)
 
