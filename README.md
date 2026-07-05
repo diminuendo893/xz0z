@@ -43,7 +43,7 @@
 ---
 ## 💌 特别感谢
 
-![Contributors](https://contrib.rocks/image?repo=diminuendo893/xz0z)
+![Contributors]( https://contrib.rocks/image?repo=diminuendo893/xz0z)
 
 ## ⭐️ 喜欢这个项目吗？请给我们点一个 Star！
 
