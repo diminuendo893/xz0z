@@ -43,6 +43,7 @@
 - [Pornhub](https://www.bilibili.com/video/BV1GJ411x7h7)
 
 ---
+
 ## 💌 特别感谢
 
 ![Contributors](https://contrib.rocks/image?repo=diminuendo893/xz0z)
@@ -53,6 +54,7 @@
 
 ## Star History
 
+<!-- markdownlint-disable MD033 -->
 <a href="https://www.star-history.com/?repos=diminuendo893%2Fxz0z&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=diminuendo893/xz0z&type=date&theme=dark&legend=top-left" />
@@ -60,3 +62,4 @@
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=diminuendo893/xz0z&type=date&legend=top-left" />
  </picture>
 </a>
+<!-- markdownlint-enable MD033 -->
