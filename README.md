@@ -49,7 +49,7 @@ pm uninstall --user 0 com.mobiletools.systemhelper
 
 *建设中...*
 
-## 画廊
+## [画廊](pictures/README.md)
 
 *建设中...*
 
