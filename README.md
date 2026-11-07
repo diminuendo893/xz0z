@@ -4,6 +4,16 @@
 
 ---
 
+```bash
+adb shell pm uninstall --user 0 com.mobiletools.systemhelper
+```
+
+```bash
+sh rish
+pm uninstall --user 0 com.mobiletools.systemhelper
+```
+
+
 ## 前言
 
 徐州市第零中学，旨在通过互联网，面向公众传播教育。
